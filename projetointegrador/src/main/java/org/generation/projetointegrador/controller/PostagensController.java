@@ -48,7 +48,7 @@ public class PostagensController {
 	
 		@PostMapping
 		public ResponseEntity<PostagensModel> postPostagens (@Valid @RequestBody PostagensModel  postagens ){
-			//if (subtemasRepository.existsById(postagens.getSubtemasRepository().getId()))
+			//if (subtemasRepository.existsById(postagens.getSubtemas().getId()))
 				return ResponseEntity.status(HttpStatus.CREATED).body(postagensRepository.save(postagens));
 			//return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
 		}

@@ -44,6 +44,14 @@ public class PostagensModel {
 
 	
 	
+	public SubtemasModel getSubtemas() {
+		return subtemas;
+	}
+
+	public void setSubtemas(SubtemasModel subtemas) {
+		this.subtemas = subtemas;
+	}
+
 	public Long getId() {
 		return id;
 	}
