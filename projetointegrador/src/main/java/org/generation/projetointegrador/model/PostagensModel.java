@@ -42,7 +42,9 @@ public class PostagensModel {
     @JsonIgnoreProperties("postagens")
     private SubtemasModel subtemas;
 
-	
+	@ManyToOne
+	@JsonIgnoreProperties("postagens")
+	private UsuariosModel usuarios;
 	
 	public SubtemasModel getSubtemas() {
 		return subtemas;
@@ -92,6 +94,14 @@ public class PostagensModel {
 		this.foto = foto;
 	}
 
+	public UsuariosModel getUsuario() {
+		return usuarios;
+	}
+
+	public void setUsuario(UsuariosModel usuario) {
+		this.usuarios = usuario;
+	}
+	
 	
 	}
 
