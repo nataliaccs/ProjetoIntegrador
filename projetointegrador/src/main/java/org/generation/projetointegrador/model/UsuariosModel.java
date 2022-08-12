@@ -111,6 +111,8 @@ public class UsuariosModel {
 	public void setPostagens(List<PostagensModel> postagens) {
 		this.postagens = postagens;
 	}
+
+	
 	
 	
 }
