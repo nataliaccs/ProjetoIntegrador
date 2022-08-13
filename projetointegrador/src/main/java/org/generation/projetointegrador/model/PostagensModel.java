@@ -94,15 +94,14 @@ public class PostagensModel {
 		this.foto = foto;
 	}
 
-	public UsuariosModel getUsuario() {
+	public UsuariosModel getUsuarios() {
 		return usuarios;
 	}
 
-	public void setUsuario(UsuariosModel usuario) {
-		this.usuarios = usuario;
+	public void setUsuarios(UsuariosModel usuarios) {
+		this.usuarios = usuarios;
 	}
-	
-	
+
 	}
 
 
