@@ -26,9 +26,9 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 
 <linha de comando>
   <h2>🔜 Implementação futura</h2>
-O que será implementado na próxima sprint?
+Proxíma implementação será o Frontend do Projeto, para a conclusão final do mesmo.
   
-<h2 >🤝 Colaboradores</h2>
+<h2 >🤝 Colaboradoras</h2>
 
   
 | [<img src="https://avatars.githubusercontent.com/u/108000976?v=4" width=115><br><sub>Cinthía Caroline</sub>](https://github.com/cinthiacash) |  [<img src="https://avatars.githubusercontent.com/u/103153685?v=4" width=115><br><sub>Elisabeth Cavalcante</sub>](https://github.com/ElisCavalcante) |  [<img src="https://avatars.githubusercontent.com/u/84357261?v=4" width=115><br><sub>Luana Maria</sub>](https://github.com/luanamarialuuz) |  [<img src="https://avatars.githubusercontent.com/u/107437584?v=4" width=115><br><sub>Natália Costa</sub>](https://github.com/nataliaccs) | [<img src="https://avatars.githubusercontent.com/u/104395080?v=4" width=115><br><sub>Rebeka Sena</sub>](https://github.com/rebekacardososena) |
