@@ -20,6 +20,7 @@ A nossa aplicação é uma Rede Social, com o objetivo de captar e expor os prin
 - [x] REST
 - [x] Swagger
 - [x] Mysql
+- [x] Postaman
 
 <h2 align>🚀 Rodando o projeto</h2>
 Você pode ver a documentação do back-end e testar a api através do swagger do projeto no heroku clicando <a href="https://degotaemgota.herokuapp.com/swagger-ui/index.html" rel="nofollow">aqui.</a>
