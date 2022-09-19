@@ -13,16 +13,19 @@ A nossa aplicação é uma Rede Social, com o objetivo de captar e expor os prin
 - `Funcionalidade 4`: Cadastro de empresas parceiras.
 
 <h2>🔧 Tecnologias utilizadas</h2>
-Tecnologia;
-Spring Framework
-Spring Boot
-Spring Data
-REST
-Swagger
-Mysql
+
+- [x] Spring Framework
+- [x] Spring Boot
+- [x] Spring Data
+- [x] REST
+- [x] Swagger
+- [x] Mysql
 
 <h2 align>🚀 Rodando o projeto</h2>
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+Você pode ver a documentação do back-end e testar a api através do swagger do projeto no heroku clicando <a href="https://degotaemgota.herokuapp.com/swagger-ui/index.html" rel="nofollow">aqui.</a>
+
+
+<p>Para acessar utilize o usuario: root e senha: root</p> 
 
 <linha de comando>
   <h2>🔜 Implementação futura</h2>
